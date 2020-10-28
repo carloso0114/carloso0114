@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Eduardo Ospina Gomez</h1>
+<h1 align="center">Hi 👋, I'm Carlos Ospina Gomez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carloso0114&label=Profile%20views&color=0e75b6&style=plastic" alt="carloso0114" /> </p>
