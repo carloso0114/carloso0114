@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at **Microverse**
 
-- 🌱 I’m currently learning **Html/Css/Bootstrap**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Web Design**
 
