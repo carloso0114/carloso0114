@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻Portfolio available at [https://carloso0114.github.io/myportfolio/](https://carloso0114.github.io/myportfolio/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing](https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing)
 
-- ⚡ Fun fact **Im a League of Legends player for 6 years and still cant get to Diamond rank. =(**
+- ⚡ Fun fact **I’m a League of Legends player for 6 years and still can’t get to Diamond rank. =(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
