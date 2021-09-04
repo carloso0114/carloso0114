@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻Portfolio available at [https://carloso0114.github.io/myportfolio/](https://carloso0114.github.io/myportfolio/)
 
