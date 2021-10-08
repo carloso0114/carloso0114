@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloso0114" alt="carloso0114" /></a> </p>
 
-- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)
-
-- 🌱 I’m currently learning **React**
+- 🔭 I studyied at [Microverse](https://www.microverse.org/)
 
 - 👨‍💻Portfolio available at [https://carloso0114.github.io/myportfolio/](https://carloso0114.github.io/myportfolio/)
 
