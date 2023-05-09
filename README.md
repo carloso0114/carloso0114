@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing](https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing)
 
-- ⚡ Fun fact **I’m a League of Legends player for 6 years and still can’t get to Diamond rank. =(**
+- ⚡ Fun fact **I swore never to work in call centers again, and right now I'm working for one. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
