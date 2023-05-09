@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **carlossospinag@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing](https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1KEK6QfIeqny5iY1b2ASorOaas6mdA3wOyU5UR39_yvk/edit?usp=sharing](https://docs.google.com/document/d/1KEK6QfIeqny5iY1b2ASorOaas6mdA3wOyU5UR39_yvk/edit?usp=sharing)
 
 - ⚡ Fun fact **I swore never to work in call centers again, and right now I'm working for one. **
-
+- CV [https://drive.google.com/file/d/1UTfe02wI1HDtcLj60xbyh-_5PHeZKDu6/view?usp=sharing](https://drive.google.com/file/d/1UTfe02wI1HDtcLj60xbyh-_5PHeZKDu6/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlosospina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="carlosospina" height="30" width="40" /></a>
