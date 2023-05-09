@@ -7,8 +7,6 @@
 
 - 🔭 I studyied at [Microverse](https://www.microverse.org/)
 
-- 👨‍💻Portfolio available at [https://carloso0114.github.io/myportfolio/](https://carloso0114.github.io/myportfolio/)
-
 - 📫 How to reach me **carlossospinag@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing](https://docs.google.com/document/d/1KfO2GbGeWVIpUU1-dHNJL-Ibo4eVr9yhoMh-UZBkbbQ/edit?usp=sharing)
